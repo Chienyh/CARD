@@ -1,0 +1,9 @@
+* {margin: 0;  padding: 0;box-sizing: border-box;}
+body {height: 100vh;background: rosybrown;display: flex;align-items: center;justify-content: center;}
+.chien1 {position: relative; bottom: 5px;background: white;height: 430px;width: 350px;border-radius: 5px;}
+.chien3 p { margin: 9px 70px  ;}
+.chien5 p {text-align: left;font-size: 16.5px; margin: 10px ;}
+.luachon { position: fixed; left: 690px; top: 35px; } 
+.icon { position: fixed;bottom:50px ; left: 380px;  }
+.xuong {position: fixed; bottom: 50px ; left: 690px; }
+.avatar {position: fixed; top: 35px; left: 380px;height: 35px;width: 35px;border-radius: 50%;}
